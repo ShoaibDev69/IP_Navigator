@@ -47,8 +47,3 @@ Users should be able to:
 
 Using IpAdress API and react-leaflet.
 
-## Author
-
-- Instagram - [@developer_rahul_](https://www.instagram.com/developer_rahul_)
-- Github - [@developerrahulofficial](https://github.com/developerrahulofficial)
-- Youtube - https://www.youtube.com/channel/UCzB2vC0kH-PPbrGmqeII9hQ
