@@ -1,11 +1,3 @@
-#IP Adress Tracker [![Netlify Status](https://api.netlify.com/api/v1/badges/37ab9b31-6e80-4ba4-be8e-67ae1afe3d1f/deploy-status)](https://app.netlify.com/sites/hopeful-blackwell-1aa8c9/deploys)
-
-[![Lighthouse Status](https://img.shields.io/badge/-Performance%2098-09864c?style=flat-square&logo=lighthouse&logoColor=white)](https://app.netlify.com/sites/wizardly-hoover-860206/deploys)
-[![Lighthouse Status](https://img.shields.io/badge/-Accessibility%2077-ff7733?style=flat-square&logo=lighthouse&logoColor=white)](https://app.netlify.com/sites/wizardly-hoover-860206/deploys)
-[![Lighthouse Status](https://img.shields.io/badge/-Best%20Practices%20100-09864c?style=flat-square&logo=lighthouse&logoColor=white)](https://app.netlify.com/sites/wizardly-hoover-860206/deploys)
-[![Lighthouse Status](https://img.shields.io/badge/-SEO%2091-09864c?style=flat-square&logo=lighthouse&logoColor=white)](https://app.netlify.com/sites/wizardly-hoover-860206/deploys)
-
-This is a solution to the [IP address tracker challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
