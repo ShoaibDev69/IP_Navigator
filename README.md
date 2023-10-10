@@ -25,10 +25,6 @@ Users should be able to:
 <img src='./src/assets/images/final/desktop.png' width='640px' alt='Desktop Design' />
 <img src='./src/assets/images/final/mobile.png' width='640px' alt='Mobile Design' />
 
-### Links
-
-- Solution URL: [Github URL](https://github.com/atorres-io/frontend-mentor-ip-address-tracker)
-- Live Site URL: [Live URL](https://hopeful-blackwell-1aa8c9.netlify.app/)
 
 ## My process
 
