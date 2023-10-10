@@ -13,7 +13,7 @@ function Header(props) {
 
 	return (
 		<header>
-			<h1 className='title'>IP Address Tracker</h1>
+			<h1 className='title'>IP Navigator</h1>
 			<div className='wr-input-ip'>
 				<input
 					type='text'
