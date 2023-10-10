@@ -1,4 +1,4 @@
-const API_KEY = 'at_XutrWCJhSHpANbD3ArkbSyvuGU0kI'; //... Set your api key so that the app works
+const API_KEY = 'at_VDOQ35GZC6fveKlNEYsux8s4riz9C'; //... Set your api key so that the app works
 
 export const getCurrentIp = async () => {
 	const response = await fetch('https://api.ipify.org');
