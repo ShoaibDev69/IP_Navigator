@@ -12,7 +12,7 @@
 // 	return await response.json();
 // };
 // Set API key as environment variable
-const API_KEY = process.env.IPIFY_API_KEY;
+const API_KEY = `at_VDOQ35GZC6fveKlNEYsux8s4riz9C`;
 
 export const getCurrentIp = async () => {
   try {
@@ -31,7 +31,7 @@ export const getCurrentIp = async () => {
 
 export const getIpDetails = async (ip) => {
   try {
-    const url = `https://geo.ipify.org/api/v2/country,city?apiKey=${API_KEY}&ipAddress=${ip}`;
+    const url = `https://geo.ipify.org/api/v2/country,city?apiKey=${at_VDOQ35GZC6fveKlNEYsux8s4riz9C}&ipAddress=${ip}`;
 
     const response = await fetch(url);
 
