@@ -31,7 +31,7 @@ export const getCurrentIp = async () => {
 
 export const getIpDetails = async (ip) => {
   try {
-    const url = `https://geo.ipify.org/api/v2/country,city?apiKey=${at_VDOQ35GZC6fveKlNEYsux8s4riz9C}&ipAddress=${ip}`;
+    const url = `https://geo.ipify.org/api/v2/country,city?apiKey=${API_KEY}&ipAddress=${ip}`;
 
     const response = await fetch(url);
 
