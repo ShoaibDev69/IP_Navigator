@@ -41,5 +41,4 @@ Users should be able to:
 
 ### What I learned
 
-Using IpAdress API and react-leaflet.
-
+Using IpAdress API and react-leaflet. I learned how to use react-leaflet and how to use the IpAdress API. I also learned how to use the fetch method to get the data from the API.
