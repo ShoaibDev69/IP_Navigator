@@ -1,13 +1,14 @@
 
-## Table of contents
+## Table of Contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The Challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [My Process](#my-process)
+  - [Built With](#built-with)
 - [Author](#author)
+
 
 ## Overview
 
