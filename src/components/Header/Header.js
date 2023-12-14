@@ -1,7 +1,8 @@
 import React from 'react';
-import './Header.css';
 import ArrowIcon from '../../assets/images/icon-arrow.js';
 import { getGeoDatas } from '../../services/GeoService';
+
+import './Header.css';
 
 function Header(props) {
 	const { config, setConfig } = props;
